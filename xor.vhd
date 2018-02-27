@@ -21,3 +21,4 @@ end xor_arc;
 
 --Padarytas pakeitimas
 -- Parasytas pirmasis komentaras
+-- PArasytas antras komentaras
